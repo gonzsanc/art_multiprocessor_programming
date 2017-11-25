@@ -1,3 +1,4 @@
+package ch01;
 /**
  * A consumer that can handle one chopstick.
  */
